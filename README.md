@@ -1,5 +1,5 @@
-# Cricket-World-Cup-2019-Prediction
+# Handwriting to Digital Text
 
-This is the private repository for Cricket World Cup 2019 Prediction.
+This is our ongoing project to convert handwriting to digital text using Deep Learning.
 
 @authors - shubhm-gupta, abhalla1, dhananjay-arora, namanmanocha
