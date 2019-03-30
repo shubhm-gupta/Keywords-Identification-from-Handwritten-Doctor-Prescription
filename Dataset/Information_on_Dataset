@@ -1,1 +1,9 @@
+Collected from http://www.fki.inf.unibe.ch/DBs/iamDB/data/
 
+Register for free at the above website.
+Download words/words.tgz.
+Download ascii/words.txt.
+Put words.txt into the data/ directory.
+Create the directory data/words/.
+Put the content (directories a01, a02, ...) of words.tgz into data/words/.
+Go to data/ and run python checkDirs.py for a rough check if everything is ok.
