@@ -105,3 +105,22 @@ We built a model that generates the image features from the input image through 
 * We built a small prototype medical repository for this project. For future, this can be taken up as a different project which will be very helpful working in Medical Domain.
 
 
+### References
+
+References
+
+[1] A. Mukherjee, A. Halder, S. Nath, S. Sarkar. "A New Approach to Information Retrieval based on Keyword Spotting from Handwritten Medical Prescriptions", Advances in Industrial Engineering and Management, American Scientific Publishers, Vol. 6, No. 2 (2017),90-96, https://pdfs.semanticscholar.org/0af8/ec347b87569e3f68da04891fafce0c3f1fc8.pdf 
+[2] P. Roya, A. Bhunia, A. Das, P. Dhar, U. Pal "Expert Systems With Applications", Elsevier, Volume 76 (2017), Pages 113-128, https://doi.org/10.1016/j.eswa.2017.01.027 
+[3] D. Nasien, H. Haron, S. Yuhaniz "Support Vector Machine (SVM) for English Handwritten Character Recognition", 2010 Second International Conference on Computer Engineering and Applications, IEEE COMPUTER SOC (2010), https://ieeexplore.ieee.org/document/5445830 
+[4] B. Balci, D. Saadati, D. Shiferaw "Handwritten Text Recognition using Deep Learning" (2017), http://cs231n.stanford.edu/reports/2017/pdfs/810.pdf 
+[5] A. Yuan, G. Bai, L. Jiao, Y. Liu "Offline handwritten English character recognition based on convolutional neural network", IEEE COMPUTER SOC (2012), 10th IAPR International Workshop on Document Analysis Systems, https://ieeexplore.ieee.org/document/6195348
+ [6] Harald Scheidl [@githubharald], SimpleHTR, (2013), GitHub repository, https://github.com/githubharald/SimpleHTR 
+  [7] Joan Puigcerver, "Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?", 9-15 Nov. 2017,  http://www.jpuigcerver.net/pubs/jpuigcerver_icdar2017.pdf 
+ [8] Pablo Ruiz Ruiz, "Understanding and visualizing ResNets", Oct 8, 2018, Towards Data Science, https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8  
+[9] U. Marti and H. Bunke. The IAM-database: An English Sentence Database for Off-line Handwriting Recognition. Int. Journal on Document Analysis and Recognition, Volume 5, pages 39 - 46, 2002.
+[10] Jonathan Chung, Handwritten Text Recognition (OCR) with MXNet Gluon, (2018) GitHub repository,
+https://github.com/awslabs/handwritten-text-recognition-for-apache-mxnet
+[11] Lamy JB, Venot A, Duclos C. PyMedTermino: an open-source generic API for advanced terminology services. Stud Health Technol Inform 2015;210:924-928
+[12] "Tesseract Open Source OCR Engine (main repository), GitHub repository, https://github.com/tesseract-ocr/tesseract 
+
+
